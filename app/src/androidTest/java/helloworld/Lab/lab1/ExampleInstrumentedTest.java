@@ -1,4 +1,4 @@
-package com.Lab.lab1;
+package helloworld.Lab.lab1;
 
 import android.content.Context;
 

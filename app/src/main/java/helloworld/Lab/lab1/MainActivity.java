@@ -1,8 +1,10 @@
-package com.Lab.lab1;
+package helloworld.Lab.lab1;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import id.ac.ui.cs.mobileprogramming.RahmadianTioPratama.helloworld.R;
 
 public class MainActivity extends AppCompatActivity {
 
