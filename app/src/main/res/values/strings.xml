@@ -1,4 +1,8 @@
 <resources>
-    <string name="app_name">Lab 1</string>
-    <string name="rahmadian_tio_pratama">Rahmadian Tio Pratama</string>
+    <string name="app_name">Hallo Dunia</string>
+    <string name="premis">Aku akan memberi tahu angka ganjil atau bukan</string>
+    <string name="input">Silahkan masukkan angka</string>
+    <string name="konfirmasi">Konfirmasi</string>
+    <string name="semangat">Penyemangat Buatmu</string>
+    <string name="placeholder">Masukkan Angka</string>
 </resources>
